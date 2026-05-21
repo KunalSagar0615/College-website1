@@ -31,10 +31,10 @@ git clone <your-repo-link>
 cd College-website1
 
 # Install dependencies
-npm install
+pnpm install
 
 # Start development server
-npm run dev
+pnpm run dev
 ```
 
 ## 📸 Screens Included
